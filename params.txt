@@ -1,0 +1,11 @@
+-- Source Extractor Pipeline Parameter File --
+
+DIRECTORY: /home/hal9k/SExtr_pipeline/testrun
+IMAGE: /home/hal9k/Final_Test_Drizzle_Products/Visit_12_drz_sci.fits
+STARTSIZE: 5
+ENDSIZE: 10
+SIZESTEP: 1
+STARTMAG: 20
+ENDMAG: 25
+MAGSTEP: 1
+SEX PARAMETER FILE: /home/hal9k/sextr_files/candels_cold.sex
